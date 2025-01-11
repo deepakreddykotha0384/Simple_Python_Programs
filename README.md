@@ -1,2 +1,3 @@
 # Simple_Python_Programs
-This is for simple python programs
+This repo contains simple python programs
+# Let's Go....
